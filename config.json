@@ -1,7 +1,7 @@
 {
   "ads_config": {
     "ad_platform": "unity",
-    "ad_time": 5,
+    "ad_time": 10,
     "admob_app_id": "ca-app-pub-4463883562173773~8033051113",
     "admob_banner_id": "ca-app-pub-4463883562173773/3351570072",
     "admob_popup_id": "ca-app-pub-4463883562173773/8412325067",
