@@ -58,7 +58,7 @@
   "shopping_config": {
     "shopping": [
       {
-        "data_file_url": "https://www.dropbox.com/s/arxu8570dfih293/item_sell_us.json?dl=1",
+        "data_file_url": "https://www.dropbox.com/s/jig1nf26ttnvlxo/item_sell_us.json?dl=1",
         "target": "def",
         "enable": true,
         "show_price": true
@@ -70,7 +70,7 @@
         "show_price": true
       },
       {
-        "data_file_url": "https://www.dropbox.com/s/arxu8570dfih293/item_sell_us.json?dl=1",
+        "data_file_url": "https://www.dropbox.com/s/jig1nf26ttnvlxo/item_sell_us.json?dl=1",
         "target": "us",
         "enable": true,
         "show_price": true
